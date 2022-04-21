@@ -1,9 +1,5 @@
 # JavaPractice
 
-
-System.out.println(");
-//자바 출력 방법
-
 객체 지향
 
 - 실제 구현 내용을 감추는 것.
